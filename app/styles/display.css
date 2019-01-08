@@ -1,0 +1,51 @@
+.block        { display: block }
+.inline       { display: inline }
+.inline-block { display: inline-block }
+
+.overflow-hidden { overflow: hidden }
+.overflow-scroll { overflow: scroll }
+.overflow-auto   { overflow: auto }
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table
+}
+.clearfix:after { clear: both }
+
+.hide {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+.hidden { display: none !important; }
+
+.disabled {
+  color: rgba(0, 0, 0, .125);
+  opacity: .5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.success { color: #2ecc40; }
+.warning { color: #ffdc00; }
+.error   { color: #ff4136; }
+
+.scroll-horizontal {
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.scroll-vertical {
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+  background: transparent;
+}

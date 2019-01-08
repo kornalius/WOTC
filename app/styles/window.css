@@ -1,0 +1,46 @@
+::-webkit-scrollbar-thumb {
+  /*display: none;*/
+}
+
+::-webkit-scrollbar {
+  /*width: 0px;*/
+}
+
+::-webkit-scrollbar-track {
+  /*background-color: SCROLLBAR_TRACK*/
+  /*border-radius: 8px;*/
+}
+
+::-webkit-scrollbar-thumb {
+  /*background-color: SCROLLBAR_THUMB_DARKEN*/
+  /*border-radius: 8px;*/
+}
+
+.window {
+}
+
+.caption-bar {
+  background-color: rgb(221, 219, 221);
+}
+
+.caption {
+}
+
+.caption-buttons {
+  margin-right: 3px;
+  right: 3px;
+  top: 8px;
+}
+
+.caption-button {
+}
+
+.caption-button:hover {
+  color: white;
+  background-color: rgb(73, 109, 144);
+}
+
+.window-content {
+  background-color: rgb(.85, .85, .85);
+  margin: 4px;
+}

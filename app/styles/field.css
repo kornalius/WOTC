@@ -1,0 +1,101 @@
+.field {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0,0,0,.125);
+  border-radius: 3px;
+}
+
+.field:focus,
+.field.is-focused {
+  outline: none;
+  border-color: #0074d9;
+  box-shadow: 0 0 0 2px rgba(0, 116, 217, 0.5);
+}
+
+.field:disabled,
+.field.is-disabled {
+  background-color: rgba(0,0,0,.125);
+  opacity: .5;
+}
+
+.field:read-only:not(select),
+.field.is-read-only {
+  background-color: rgba(0,0,0,.125);
+}
+
+
+.field.is-success {
+  border-color: #2ecc40;
+}
+
+.field.is-success:focus,
+.field.is-success.is-focused {
+  box-shadow: 0 0 0 2px rgba(46, 204, 64, 0.5);
+}
+
+.field.is-warning {
+  border-color: #ffdc00;
+}
+
+.field.is-warning:focus,
+.field.is-warning.is-focused {
+  box-shadow: 0 0 0 2px rgba(255, 220, 0, 0.5);
+}
+
+.field:invalid,
+.field.is-error {
+  border-color: #ff4136;
+}
+
+.field:invalid:focus,
+.field:invalid.is-focused,
+.field.is-error:focus,
+.field.is-error.is-focused {
+  box-shadow: 0 0 0 2px rgba(255, 65, 54, 0.5);
+}
+
+.field-dark {
+  color: white;
+  background-color: rgba(0,0,0,.25);
+  border: 1px solid rgba(0,0,0,.0625);
+  border-radius: 3px;
+}
+
+.field-dark::placeholder {
+  color: rgba(255,255,255,.75);
+}
+
+.field-dark:focus {
+  outline: 0;
+  border: 1px solid rgba(255,255,255,.5);
+  box-shadow: 0 0 0 2px rgba(255,255,255,.25);
+}
+
+.field-dark:read-only:not(select) {
+  background-color: rgba(255,255,255,.25);
+}
+
+.field-dark.is-success {
+  border-color: #2ecc40;
+}
+
+.field-dark.is-success:focus {
+  box-shadow: 0 0 0 2px rgba(46, 204, 64, 0.5);
+}
+
+.field-dark.is-warning {
+  border-color: #ffdc00;
+}
+
+.field-dark.is-warning:focus {
+  box-shadow: 0 0 0 2px rgba(255, 220, 0, 0.5);
+}
+
+.field-dark:invalid,
+.field-dark.is-error {
+  border-color: #ff4136;
+}
+
+.field-dark.is-error:focus {
+  box-shadow: 0 0 0 2px rgba(255, 65, 54, 0.5);
+}

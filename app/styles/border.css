@@ -1,0 +1,73 @@
+.border-box { box-sizing: border-box }
+
+.border {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0,0,0,.125);
+}
+.border-2 { border-width: 2px; }
+.border-3 { border-width: 3px; }
+.border-4 { border-width: 4px; }
+
+.border-top {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: rgba(0,0,0,.125);
+}
+.border-top-2 { border-top-width: 2px; }
+.border-top-3 { border-top-width: 3px; }
+.border-top-4 { border-top-width: 4px; }
+
+.border-left {
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-left-color: rgba(0,0,0,.125);
+}
+.border-left-2 { border-left-width: 2px; }
+.border-left-3 { border-left-width: 3px; }
+.border-left-4 { border-left-width: 4px; }
+
+.border-right {
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-right-color: rgba(0,0,0,.125);
+}
+.border-right-2 { border-right-width: 2px; }
+.border-right-3 { border-right-width: 3px; }
+.border-right-4 { border-right-width: 4px; }
+
+.border-bottom {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgba(0,0,0,.125);
+}
+.border-bottom-2 { border-bottom-width: 2px; }
+.border-bottom-3 { border-bottom-width: 3px; }
+.border-bottom-4 { border-bottom-width: 4px; }
+
+.border-none { border: 0 }
+
+.rounded          { border-radius: 1px }
+.rounded-2        { border-radius: 2px }
+.rounded-3        { border-radius: 3px }
+.rounded-4        { border-radius: 4px }
+.rounded-top      { border-radius: 1px 1px 0 0 }
+.rounded-top-2    { border-radius: 2px 2px 0 0 }
+.rounded-top-3    { border-radius: 3px 3px 0 0 }
+.rounded-top-4    { border-radius: 4px 4px 0 0 }
+.rounded-left     { border-radius: 1px 0 0 1px }
+.rounded-left-2   { border-radius: 2px 0 0 2px }
+.rounded-left-3   { border-radius: 3px 0 0 3px }
+.rounded-left-4   { border-radius: 4px 0 0 4px }
+.rounded-right    { border-radius: 0 1px 1px 0 }
+.rounded-right-2  { border-radius: 0 2px 2px 0 }
+.rounded-right-3  { border-radius: 0 3px 3px 0 }
+.rounded-right-4  { border-radius: 0 4px 4px 0 }
+.rounded-bottom   { border-radius: 0 0 1px 1px }
+.rounded-bottom-2 { border-radius: 0 0 2px 2px }
+.rounded-bottom-3 { border-radius: 0 0 3px 3px }
+.rounded-bottom-4 { border-radius: 0 0 4px 4px }
+
+.circle  { border-radius: 50% }
+
+.not-rounded { border-radius: 0 }

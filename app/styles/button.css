@@ -1,0 +1,89 @@
+.btn {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  text-decoration: none;
+  /*cursor: pointer;*/
+  display: inline-block;
+  line-height: 1.125rem;
+  padding: .5rem 1rem;
+  margin: .1rem;
+  height: auto;
+  border: 1px solid transparent;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  color: inherit;
+  background-color: transparent;
+}
+
+.btn:hover {
+  text-decoration: none;
+  box-shadow: inset 0 0 0 20rem rgba(0,0,0,.05);
+}
+
+.btn:focus {
+  outline: none;
+  border-color: rgba(0,0,0,.125);
+  box-shadow: 0 0 0 3px rgba(0,0,0,.25);
+}
+
+::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+.btn:active {
+  box-shadow: inset 0 0 0 20rem rgba(0,0,0,.25), inset 0 3px 4px 0 rgba(0,0,0,.25), 0 0 1px rgba(0,0,0,.25);
+}
+
+.btn:disabled, .btn.is-disabled {
+  opacity: .5;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #0074d9;
+  border-radius: 3px;
+}
+
+.btn-outline {
+  border: 1px solid #808080;
+  border-radius: 3px;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #408000;
+  border-radius: 3px;
+}
+
+.btn-warning {
+  color: #000;
+  background-color: #ffcc66;
+  border-radius: 3px;
+}
+
+.btn-error {
+  color: #fff;
+  background-color: #ff6666;
+  border-radius: 3px;
+}
+
+.btn-info {
+  color: #fff;
+  background-color: #66ccff;
+  border-radius: 3px;
+}
+
+.btn-small {
+  padding: .25rem .5rem;
+}
+
+.btn-big {
+  padding: 1rem 1.25rem;
+}
+
+.btn-narrow {
+  padding-left: .5rem;
+  padding-right: .5rem;
+}

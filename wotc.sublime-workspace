@@ -1,0 +1,975 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"own",
+				"_.forOwn\tLodashObject"
+			],
+			[
+				"daily-person",
+				"daily-person-list-item.html\t(daily-main.html)"
+			],
+			[
+				"querySele",
+				"querySelectorAll\t(app.html)"
+			],
+			[
+				"transla",
+				"translateX"
+			],
+			[
+				"dai",
+				"daily-shift"
+			],
+			[
+				"fet",
+				"fetchData"
+			],
+			[
+				"add",
+				"addresses"
+			],
+			[
+				"addre",
+				"address_id"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"tar",
+				"targetUrl"
+			],
+			[
+				"error",
+				"error-message"
+			],
+			[
+				"vaad",
+				"vaadin-upload.html\t(gui-input.html)"
+			],
+			[
+				"obser",
+				"observers\t(iron-list.html)"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"dele",
+				"deletable\t(editable-behavior.html)"
+			],
+			[
+				"ob",
+				"observers\t(app.html)"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"hex",
+				"hex-svg\t(paper-radial-item.html)"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"offset",
+				"offsetTop\t(radial-item-behavior.html)"
+			],
+			[
+				"poi",
+				"cursor: pointer;\tProperty"
+			],
+			[
+				"paper-radial",
+				"paper-radial-item\t(paper-radial-item.html)"
+			],
+			[
+				"paperadi",
+				"paper-radial-item\t(paper-radial-item.html)"
+			],
+			[
+				"paper-rad",
+				"paper-radial-item\t(paper-radial-item.html)"
+			],
+			[
+				"check",
+				"paper-checkbox"
+			],
+			[
+				"query",
+				"querySelectorAll\t(app.html)"
+			],
+			[
+				"_opera",
+				"_operations"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"_oper",
+				"_operations"
+			],
+			[
+				"parent",
+				"parent_uid"
+			],
+			[
+				"write",
+				"writeUInt32LE"
+			],
+			[
+				"comma_",
+				"comma_array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Gulp Serve",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Gulp Serve",
+					""
+				],
+				[
+					"Packages/User/Gulp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/npm_start.sublime-build",
+					""
+				]
+			],
+			[
+				"Gulp Serve",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "edit",
+		"selected_items":
+		[
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"q",
+				"ChangeQuotes"
+			],
+			[
+				"back",
+				"AutoBackups: Open File Backup"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"code se",
+				"Code Search Index"
+			],
+			[
+				"index",
+				"Code Search Index"
+			],
+			[
+				"proe",
+				"Project: Edit Project"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"",
+				"AutoBackups: Open File Backup"
+			],
+			[
+				"disable pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"debug",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"backu",
+				"AutoBackups: Open Backups Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"has",
+				"To Hastebin : send"
+			],
+			[
+				"case",
+				"Convert Case: camelCase"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"quo",
+				"ChangeQuotes"
+			],
+			[
+				"forma",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"bran",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"switch",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"checkout",
+				"Git (SideBarGit): Checkout to…"
+			],
+			[
+				"branc",
+				"Git (SideBarGit): Branch: switch to…"
+			],
+			[
+				"chang",
+				"Git (SideBarGit): Diff: all changes since the last commit"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"open",
+				"File Navigator: Open"
+			],
+			[
+				"num",
+				"King: Number: Number Sequence"
+			],
+			[
+				"number",
+				"King: Number: Number Sequence"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Indentation: Use Spaces"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"editpro",
+				"Project: Edit Project"
+			],
+			[
+				"alig",
+				"AlignTab"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/hd2/sources/WOTC",
+		"/Volumes/hd2/sources/WOTC/app",
+		"/Volumes/hd2/sources/WOTC/app/js",
+		"/Volumes/hd2/sources/WOTC/app/js/components",
+		"/Volumes/hd2/sources/WOTC/app/js/components/actions",
+		"/Volumes/hd2/sources/WOTC/app/js/components/exits",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items",
+		"/Volumes/hd2/sources/WOTC/app/js/components/map",
+		"/Volumes/hd2/sources/WOTC/app/js/components/npc",
+		"/Volumes/hd2/sources/WOTC/app/js/game",
+		"/Volumes/hd2/sources/WOTC/app/js/game/rooms",
+		"/Volumes/hd2/sources/WOTC/app/js/ui"
+	],
+	"file_history":
+	[
+		"/Volumes/hd2/sources/WOTC/build/js/ecs.js",
+		"/Volumes/hd2/sources/WOTC/app/js/wotc.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/world.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items/item.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items/equip.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items/container.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/map/story.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/actions/use.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/actions/pickup.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/actions/drop.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/actions/action.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/exits/exit.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/exits/door.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items/armor.js",
+		"/Volumes/hd2/sources/WOTC/app/js/ui/index.jsx",
+		"/Volumes/hd2/sources/WOTC/app/js/components/map/room.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/map/map.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/size.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/position.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/component.js",
+		"/Volumes/hd2/sources/WOTC/app/js/index.jsx",
+		"/Volumes/hd2/sources/WOTC/app/index.html",
+		"/Volumes/hd2/sources/WOTC/wotc.sublime-project",
+		"/Volumes/hd2/sources/WOTC/.eslintrc",
+		"/Volumes/hd2/sources/WOTC/app/js/components/state.js",
+		"/Volumes/hd2/sources/WOTC/gulpfile.js",
+		"/Volumes/hd2/sources/WOTC/package.json",
+		"/Volumes/hd2/sources/WOTC/src/index.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items/items.js",
+		"/Volumes/hd2/sources/WOTC/build/js/index.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/npc/dialog.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/npc/health.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/npc/npc.js",
+		"/Volumes/hd2/sources/WOTC/app/js/systems/world.js",
+		"/Volumes/hd2/sources/WOTC/app/js/systems/map.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/world.js",
+		"/Volumes/hd2/sources/WOTC/app/js/ecs.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/npc/inventory.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items/weapon.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/rooms/story.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/rooms/rooms.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/map.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/rooms/room.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/door.js",
+		"/Volumes/hd2/sources/WOTC/app/js/systems/inventory.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/map.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/room.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/exit.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/door.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/inventory.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/armor.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/equip.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/item.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/weapon.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/npc.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/npc.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/health.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/room.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/items.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/container.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/dialog.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/container.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/inventory.js",
+		"/Volumes/hd2/sources/WOTC/node_modules/electron-connect/lib/server.js",
+		"/Volumes/hd2/sources/WOTC/node_modules/electron-connect/index.js",
+		"/Volumes/hd2/sources/WOTC/src/window-state.js",
+		"/Volumes/hd2/sources/WOTC/node_modules/electron-prebuilt/path.txt",
+		"/Volumes/hd2/sources/WOTC/node_modules/electron-prebuilt/index.js",
+		"/Volumes/hd2/sources/WOTC/build/index.js",
+		"/Volumes/hd2/sources/WOTC/build/js/wotc.js",
+		"/Volumes/hd2/sources/WOTC/build/index.html",
+		"/Volumes/hd2/sources/WOTC/app/js/components/action.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/use.js",
+		"/Volumes/hd2/sources/WOTC/app/assets/empty.txt",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/CodeSearch/CodeSearch.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/CodeSearch/README.md",
+		"/Volumes/hd2/sources/WOTC/node_modules/electron-prebuilt/package.json",
+		"/Volumes/hd2/sources/Amada/node_modules/electron-prebuilt/package.json",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/item.js",
+		"/Volumes/hd2/sources/WOTC/app/js/entities/corridor.js",
+		"/Volumes/hd2/sources/WOTC/app/js/ui/components/index.jsx",
+		"/Volumes/hd2/sources/WOTC/app/js/components/story.js",
+		"/Volumes/hd2/sources/WOTC/app/js/components/corridor.js",
+		"/Volumes/hd2/sources/WOTC/app/assets/tiles.png",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/hd2/sources/WOTC/app/js/ui/display.js",
+		"/Volumes/hd2/sources/WOTC/.gitignore",
+		"/Volumes/hd2/sources/Amada/app/js/ui/message-console.js",
+		"/Volumes/hd2/sources/Amada/app/js/ui/display.js",
+		"/Volumes/hd2/sources/Amada/app/js/entities/world.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/map.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/physic.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/world.js",
+		"/Volumes/hd2/sources/Amada/app/js/systems/lighting.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/velocity.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/position.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/fov.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/health.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/map.js",
+		"/Volumes/hd2/sources/Amada/app/js/index.jsx",
+		"/Volumes/hd2/sources/Amada/app/js/entities/map.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/fov.jas",
+		"/Users/alain/sublime_backups/2016-04-17/Volumes/hd2/sources/Amada/app/js/systems/world_083548.js",
+		"/Volumes/hd2/sources/Amada/app/js/amada.js",
+		"/Volumes/hd2/sources/Amada/app/js/components/size.js",
+		"/Volumes/hd2/sources/Amada/app/js/ecs.js",
+		"/Volumes/hd2/sources/Amada/app/js/ui/components/index.jsx",
+		"/Volumes/hd2/sources/Amada/app/styles/default.css",
+		"/Volumes/hd2/sources/Amada/app/styles/border.css",
+		"/Volumes/hd2/sources/Amada/app/js/systems/maps.js",
+		"/Volumes/hd2/sources/Amada/app/index.html",
+		"/Volumes/hd2/sources/Amada/node_modules/rot-js/lib/rot.js",
+		"/Users/alain/Library/Application Support/Trendy/config.json",
+		"/Volumes/hd2/sources/Amada/node_modules/rot-js/README.md",
+		"/Volumes/hd2/sources/Amada/.eslintrc",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Volumes/hd2/sources/Amada/node_modules/eslint/package.json",
+		"/Volumes/hd2/sources/Amada/app/js/ecs/component.js",
+		"/Volumes/hd2/sources/Amada/app/js/ecs/entity.js",
+		"/Volumes/hd2/sources/Amada/app/js/ecs/prioritychain.js",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Expand Selection to Whitespace/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/MultiEditUtils/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Better CoffeeScript/Keymaps/Default (OSX).sublime-keymap",
+		"/Volumes/hd2/sources/Amada/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"/Volumes/hd2/sources/WOTC/,-node_modules/,-bower_components/,-build/,-.tmp/,*.js,*.html,*.css",
+			"/Volumes/hd2/sources/WOTC/,-node_modules/,-bower_components/,-dist/,-.tmp/,*.js,*.html,*.css",
+			"/Volumes/hd2/sources/WOTC/,-node_modules/,-bower_components/,-build/,-.tmp/,*.js,*.html,*.css",
+			"/Volumes/hd2/sources/WOTC/,-node_modules/,-bower_components/,-dist/,-.tmp/,*.js,*.html,*.css",
+			"/Volumes/hd2/sources/WOTC",
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/,-node_modules/,-bower_components/,-dist/,-.tmp/,*.js,*.html,*.css",
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/,-node_modules/,-bower_components/,-dist/,-.tmp/,*.js,*.html",
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/,-node_modules/,-bower_components/,-dist/,-.tmp/",
+			"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/app/elements",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mixin",
+			"brows",
+			"item",
+			"../ecs",
+			"../../ecs",
+			"ecs",
+			"State",
+			"Drop",
+			"Action",
+			"Armor",
+			"State",
+			"updateQty",
+			"hasItem",
+			"hasItems",
+			"hasState",
+			"open",
+			"has",
+			"  }\n\n",
+			" ()",
+			"item.id",
+			"this.items[",
+			"exists",
+			"qty",
+			"Door",
+			"room",
+			"Exit",
+			"Armor",
+			"Item",
+			"Container",
+			"InventoryEntity",
+			"desc",
+			"Story",
+			"name",
+			"this",
+			"name",
+			"desc",
+			"Story",
+			"desc",
+			"name",
+			"Action",
+			"_app2",
+			"_app",
+			"this.items[id]",
+			"item",
+			"Action",
+			",",
+			"left",
+			"_empty",
+			"x.",
+			"toCompare",
+			"}\n    else ",
+			"Rect",
+			"rect",
+			"Rect",
+			"Point",
+			"bottomRight",
+			"topRight",
+			"topLeft",
+			"right",
+			"left",
+			"Rect.prototype.",
+			";",
+			"}\n    else",
+			";",
+			"Point.prototype.",
+			"x",
+			";",
+			"amada",
+			"InventoryEntity",
+			"inventoryEntity",
+			"ItemEntity",
+			"InventoryEntity",
+			"Item",
+			"ItemEntity",
+			"MapSystem",
+			"Item",
+			"Room",
+			"Item",
+			"Health",
+			"health",
+			"Health",
+			"amada",
+			"_entities",
+			"entity",
+			"data",
+			"'$' + ",
+			"Map",
+			"y",
+			"component",
+			"MyBaseClass",
+			"MixinBuilder",
+			"postUpdate",
+			"preUpdate",
+			"postUpdate",
+			"preUpdate",
+			"systemsClass",
+			"makeSystemsClass",
+			"makeEntitiesClass",
+			"entity",
+			"component",
+			"entity",
+			"_entities",
+			"postEntitiesUpdate",
+			"preEntitiesUpdate",
+			"postEntitiesUpdate",
+			"preEntitiesUpdate",
+			"_entities",
+			"entity",
+			"Entity",
+			"entity",
+			"_entities",
+			"postUpdate",
+			"preUpdate",
+			"postUpdateEntities",
+			"preUpdateEntities",
+			"entity",
+			"postUpdate",
+			"preUpdate",
+			"var",
+			"let",
+			"var",
+			"componentAdded",
+			"componentRemoved",
+			"addEntityIfMatch",
+			"entityRemoved",
+			"entityAdded",
+			"Factory",
+			"addEntityIfMatch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./component",
+			"../component"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wotc.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"app/styles/app-theme.html"
+			],
+			[
+				"selectab",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"iron-resiz",
+				"bower_components/iron-resizable-behavior/iron-resizable-behavior.html"
+			],
+			[
+				"ele",
+				"app/elements/elements.html"
+			],
+			[
+				"rout",
+				"app/elements/routing.html"
+			],
+			[
+				"utils",
+				"app/scripts/utils.js"
+			],
+			[
+				"elem",
+				"app/elements/elements.html"
+			],
+			[
+				"vaa",
+				"bower_components/vaadin-upload/vaadin-upload.html"
+			],
+			[
+				"button",
+				"bower_components/paper-button/paper-button.html"
+			],
+			[
+				"eleme",
+				"app/elements/elements.html"
+			],
+			[
+				"elemt",
+				"node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/web/client/ElementsTreeOutline.js"
+			],
+			[
+				"checkbox",
+				"bower_components/paper-checkbox/paper-checkbox.html"
+			],
+			[
+				"progre",
+				"bower_components/paper-progress/paper-progress.html"
+			],
+			[
+				"styles",
+				"bower_components/paper-styles/paper-styles.html"
+			],
+			[
+				"glob",
+				"app/scripts/globals.js"
+			],
+			[
+				"paper-menu",
+				"bower_components/paper-menu/paper-menu.html"
+			],
+			[
+				"paper-item",
+				"bower_components/paper-item/paper-item-shared-styles.html"
+			],
+			[
+				"iron-list",
+				"bower_components/iron-list/iron-list.html"
+			],
+			[
+				"selectable",
+				"bower_components/iron-selector/iron-selectable.html"
+			],
+			[
+				"overlay",
+				"bower_components/iron-overlay-behavior/iron-overlay-behavior.html"
+			],
+			[
+				"control",
+				"bower_components/iron-behaviors/iron-control-state.html"
+			],
+			[
+				"multi",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"paper-item-shared-styles",
+				"bower_components/paper-item/paper-item-shared-styles.html"
+			],
+			[
+				"item",
+				"bower_components/paper-item/paper-item.html"
+			],
+			[
+				"card",
+				"bower_components/paper-card/paper-card.html"
+			],
+			[
+				"checkb",
+				"bower_components/paper-checkbox/paper-checkbox.html"
+			],
+			[
+				"selecta",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"menu",
+				"bower_components/iron-menu-behavior/iron-menu-behavior.html"
+			],
+			[
+				"dropdown",
+				"bower_components/paper-dropdown-menu/paper-dropdown-menu.html"
+			],
+			[
+				"meta",
+				"bower_components/iron-meta/iron-meta.html"
+			],
+			[
+				"poly",
+				"bower_components/polymer/polymer.html"
+			],
+			[
+				"polyme",
+				"bower_components/polymer/polymer-mini.html"
+			],
+			[
+				"polym",
+				"bower_components/polymer/polymer.html"
+			],
+			[
+				"mapper",
+				"app/elements/shared/soap/soap-mapper.html"
+			],
+			[
+				"queu",
+				"app/elements/shared/soap/soap-queue.html"
+			],
+			[
+				"element",
+				"app/elements/elements.html"
+			],
+			[
+				"overla",
+				"bower_components/iron-overlay-behavior/iron-overlay-behavior.html"
+			],
+			[
+				"dialog",
+				"bower_components/paper-dialog-behavior/paper-dialog-behavior.html"
+			],
+			[
+				"rippl",
+				"bower_components/paper-ripple/paper-ripple.html"
+			],
+			[
+				"i18",
+				"app/elements/shared/i18n-store.html"
+			],
+			[
+				"ripp",
+				"bower_components/paper-ripple/paper-ripple.html"
+			],
+			[
+				"layout",
+				"bower_components/paper-styles/classes/shadow-layout.html"
+			],
+			[
+				"shadow",
+				"bower_components/paper-styles/shadow.html"
+			],
+			[
+				"extend",
+				"app/elements/shared/gui/paper-menu-extended.html"
+			],
+			[
+				"paperitem",
+				"bower_components/paper-item/paper-item-behavior.html"
+			],
+			[
+				"menube",
+				"bower_components/iron-menu-behavior/iron-menu-behavior.html"
+			],
+			[
+				"multisele",
+				"bower_components/iron-selector/iron-multi-selectable.html"
+			],
+			[
+				"papeitem",
+				"bower_components/paper-item/paper-item-behavior.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/hd2/sources/lsi/garda/GSKED_1_0/gsked.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1195.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 441.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"code_search":
+	{
+		"csearchindex": "csearchindex"
+	},
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"gulp",
+				"serve"
+			],
+			"name": "Gulp Serve"
+		}
+	],
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"wotc.sublime-project",
+				"wotc.sublime-workspace",
+				".babelrc",
+				".eslintrc",
+				".gitignore",
+				"LICENSE"
+			],
+			"folder_exclude_patterns":
+			[
+				"build"
+			],
+			"path": "."
+		}
+	]
+}
